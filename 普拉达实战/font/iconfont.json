@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5347855",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "5723182",
+      "name": "PRADA",
+      "font_class": "PRADA",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8351791",
+      "name": "包包",
+      "font_class": "baobao",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "20950161",
+      "name": "左右",
+      "font_class": "zuoyou",
+      "unicode": "e50a",
+      "unicode_decimal": 58634
+    },
+    {
+      "icon_id": "21826986",
+      "name": "左右",
+      "font_class": "zuoyou1",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "21994212",
+      "name": "心 爱心",
+      "font_class": "xinaixin3",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "22286327",
+      "name": "放大镜",
+      "font_class": "ic_magnifying",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    }
+  ]
+}
